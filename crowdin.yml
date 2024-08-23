@@ -1,4 +1,4 @@
 files:
-  - source: src/*/i18n/en_US.csv
-    translation: /%original_path%/%locale_with_underscore%.csv
+  - source: /**/en_US.csv
+    translation: /**/%locale_with_underscore%.csv
     scheme: 'source_phrase,translation'
